@@ -1,7 +1,5 @@
+counter = 0;
 function plus1(){
-    counter = i;
-    for(var i = 0; i > 0; i++)
-    counter += i;
+    counter += 1;
     console.log(counter);
 }
-plus1();
